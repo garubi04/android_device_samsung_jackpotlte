@@ -2,9 +2,9 @@
 # SPDX-License-Identifier: Apache-2.0
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_jackpot2lte.mk
+    $(LOCAL_DIR)/lineage_jackpotlte.mk
 	
 COMMON_LUNCH_CHOICES := \
-    lineage_jackpot2lte-eng \
-    lineage_jackpot2lte-userdebug \
-    lineage_jackpot2lte-user
+    lineage_jackpotlte-eng \
+    lineage_jackpotlte-userdebug \
+    lineage_jackpotlte-user
